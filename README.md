@@ -1,9 +1,8 @@
 ## Hi there, I'm Marc 👋
 
-🎉 I am currently a student of robotics and AI.\
-🤖 I enjoy working on personal projects that are often related to the fields of electronics, programming and 3D printing.
-
-🔭 I’m currently working on a pointcloud viewer.
+- 🎉 I am currently a student of robotics and AI
+- 🤖 I enjoy working on personal projects that are often related to the fields of electronics, programming and 3D printing
+- 🔭 I’m currently working on a pointcloud viewer
 
 <hr/>
 
