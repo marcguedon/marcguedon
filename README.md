@@ -1,6 +1,6 @@
 ## Hi there, I'm Marc 👋
 
-- 🎉 I am currently a student of robotics and AI
+- 🎉 I'm graduated with an engineering degree in Robotic and Interactive Systems
 - 🤖 I enjoy working on personal projects that are often related to the fields of electronics, programming and 3D printing
 - 🔭 I’m currently working on a pointcloud viewer
 
@@ -18,18 +18,3 @@
   <img src="https://thedraill.e-monsite.com/medias/images/img-20220319-114741-01.jpg" height="240px"/>
   </a>
 </div>
-
-<!--
-**marcguedon/marcguedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
